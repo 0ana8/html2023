@@ -1,0 +1,23 @@
+p{
+    color: green;
+}
+
+#p1, #p2{
+    color: red;
+}
+
+.pblue{
+    color: blueviolet;
+}
+
+.pfont{
+    font-weight: bold;
+}
+
+div p{
+    color: rgb(149, 112, 68);
+}
+
+#aaaa{
+    color: black;
+}
